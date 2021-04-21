@@ -1,0 +1,113 @@
+
+#all{
+    display: flex;
+    height:100%;
+    width:100%;
+    margin: 0px;
+}
+
+#body{
+    width:100%;
+    height: 100%;
+    display:flex;
+    flex-direction: column;
+    background-image: url('drumKid.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}  
+
+#one{
+    height:10%;
+    width:100%;
+    display: flex;
+    flex-direction: row;
+   
+}
+#oneBlank{
+    height:100%;
+    width:11%;
+}
+#tinkButton{
+    height: 100%;
+    width:20%;
+    opacity: 0;
+}
+#two{
+    height:20%;
+    width:100%;
+    display: flex;
+    flex-direction: row;
+ 
+}
+#twoBlank{
+    height:100%;
+    width:30%;
+}
+#clapButton{
+    width:17%;
+    opacity:0;
+}
+#tomButton{
+    width:17%;
+    opacity:0;
+}
+#rideButton{
+    width:27%;
+    opacity:0;
+}
+#three{
+    height:10%;
+    width:100%;
+    
+}
+#hihatButton{
+    width:23%;
+    height:100%;
+    opacity: 0;
+}
+#four{
+    height:30%;
+    width:100%;
+    display: flex;
+    flex-direction: row;
+}
+#fourBlank{
+    height:100%;
+    width:16%;
+}
+#snareButton{
+    width:20%;
+    opacity: 0;
+}
+#fourMiddle{
+    height:100%;
+    width:20%;
+}
+#boomButton{
+    width:24%;
+    opacity: 0;
+}
+
+#five{
+    height:41%;
+    width:100%;
+    display: flex;
+    flex-direction: row;
+}
+#fiveBlank{
+    height:100%;
+    width:10%;
+}
+#openhatButton{
+    width: 18%;
+    opacity: 0;
+}
+#fiveMiddle{
+    height:100%;
+    width:10%;
+}
+#kickButton{
+    width:15%;
+    opacity:0;
+}
